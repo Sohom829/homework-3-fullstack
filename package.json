@@ -1,15 +1,16 @@
 {
   "dependencies": {
     "chalk": "^4.0.0",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
   },
   "name": "homework-3-fullstack",
   "description": "Coding homework",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "node ."
+    "test": "node .",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
