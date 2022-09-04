@@ -1,0 +1,27 @@
+.nf {
+    color: tomato;
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.gb {
+    color: lightseagreen;
+    display: inline-block;
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5cm;
+    padding-top: 5cm;
+    font-size: 90px;
+}
+.hm {
+    background-color: orchid;
+    color: aliceblue;
+    display: inline-block;
+    font-size: 3rem;
+    border-radius: 2rem;
+    margin-left: 27cm;
+}
+.hm:hover {
+    background-color: aliceblue;
+    transition: all 0.7s ease-in-out;
+    color: black;
+    -webkit-transition: all 0.7s ease-in-out;
+}
