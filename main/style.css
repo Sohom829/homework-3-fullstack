@@ -1,0 +1,27 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hmwr3 {
+    color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom: 7cm;
+}
+.pj {
+    color: springgreen;
+}
+.pg {
+    font-size: 3rem;
+    color: springgreen;
+    display: inline-block;
+}
+.pggt {
+    background-color: lime;
+    display: inline-block;
+    font-size: 2rem;
+    border-radius: 1rem;
+    margin-left: 25cm;
+}
+.pggt:hover {
+    background-color: white;
+}
